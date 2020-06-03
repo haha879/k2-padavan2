@@ -1,2 +1,4 @@
 # 是否超频 
 echo "CONFIG_FIRMWARE_CPU_600MHZ=y" >> .config
+echo "CONFIG_FIRMWARE_INCLUDE_SHADOWSOCKS=y" >> .config
+echo "CONFIG_FIRMWARE_INCLUDE_TROJAN=y" >> .config
